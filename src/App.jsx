@@ -3,7 +3,7 @@ import Dropdown from "./components/Dropdown"
 function App() {
 
   return (
-    <div className="grid place-items-center h-screen w-screen bg-gradient-to-r from-gray-100 to-teal-700">
+    <div className="font-roboto h-screen w-screen bg-gradient-to-r from-[#081d9b] to-[#5969cb]">
       <Dropdown />
     </div>
   )
